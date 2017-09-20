@@ -7,8 +7,6 @@ tags: C++
 categories: operator
 ---
 
-<!--more-->
-
 ### TODO
 
 - [ ] operator++ & operator--
@@ -18,6 +16,8 @@ categories: operator
 - [ ] operator=
 - [ ] operator[]
 - [ ] ​
+
+<!--more-->
 
 #### type operator()(args)
 
